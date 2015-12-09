@@ -1,2 +1,2 @@
 # SampleApplication
-First github application
+First github application.
